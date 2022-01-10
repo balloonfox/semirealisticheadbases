@@ -8,10 +8,14 @@ Blend-file for editing and pre-cut pieces(.stl format) for 3D printing.
 
 **Printer Settings:**
 Use brim if possible
-Z hop can prevent failed prints
-100% infill
-4 walls
-High layer heights may require support
+
+-Z hop can prevent failed prints
+
+-100% infill
+
+-4 walls
+
+-High layer heights may require support
 
 More information coming soon.
 
