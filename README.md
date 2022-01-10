@@ -6,12 +6,12 @@ Blend-file for editing and pre-cut pieces(.stl format) for 3D printing.
 
 **Software:** Blender 2.9 and Meshmixer
 
-**Printer Settings:*
--Use brim if possible
--Z hop can prevent failed prints
--100% infill
--4 walls
--High layer heights may require support
+**Printer Settings:**
+Use brim if possible
+Z hop can prevent failed prints
+100% infill
+4 walls
+High layer heights may require support
 
 More information coming soon.
 
